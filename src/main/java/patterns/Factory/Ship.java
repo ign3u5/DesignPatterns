@@ -1,4 +1,4 @@
-package Factory;
+package patterns.Factory;
 
 public class Ship implements Vehicle {
   private int lengthOfShip;

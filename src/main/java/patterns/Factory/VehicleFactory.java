@@ -1,4 +1,4 @@
-package Factory;
+package patterns.Factory;
 
 public interface VehicleFactory {
   public Vehicle createVehicle(int lengthOfVehicle);
